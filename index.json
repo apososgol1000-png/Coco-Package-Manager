@@ -1,0 +1,10 @@
+{
+  "coconut-core": {
+    "version": "1.0.0",
+    "description": "Núcleo base de CoconutWAY con binarios esenciales"
+  },
+  "coco-wallpapers": {
+    "version": "1.0.0",
+    "description": "Wallpapers oficiales de CoconutWAY"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coconut-core",
+  "version": "1.0.0",
+  "description": "Núcleo base de CoconutWAY con binarios esenciales",
+  "source": "coconut-core-1.0.0.tar.gz",
+  "sha256": "a6df901c55240a35271d3e0ec6312a9bbb1e8d412527fbf74ff0d2d2a2d76108",
+  "dependencies": [],
+  "hooks": {
+    "post_install": "sh /usr/lib/coconut-core/post-install.sh"
+  }
+}
